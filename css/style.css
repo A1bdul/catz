@@ -287,7 +287,7 @@
     -webkit-text-stroke: 2px black;
   }
   html body .lines {
-    border: 4px solid rgb(0, 0, 0);
+    border: none;
     margin: 70px 0px;
   }
   html body .container1 {
